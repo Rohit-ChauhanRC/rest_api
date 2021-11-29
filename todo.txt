@@ -1,0 +1,10 @@
+[+] Register a user
+[+] Login a user
+[+] who am I
+[-] Refresh token
+[-] logout user
+[-] Add new product
+[-] Update a product
+[-] Get all product
+[-] Get single product
+[-] Delete a product
