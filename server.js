@@ -29,4 +29,6 @@ app.use('/api', router);
 
 app.use(errorHandler);
 
+app.use('/uploads', express.static('uploads'));
+
 app.listen(APP_PORT, () => console.log(`Listening on port:  http://localhost:${APP_PORT}`));
